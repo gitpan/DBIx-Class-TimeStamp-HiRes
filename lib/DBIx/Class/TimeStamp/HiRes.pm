@@ -6,10 +6,10 @@ use strict;
 use DateTime::HiRes;
 use base 'DBIx::Class::TimeStamp';
 
-use version 0.77; our $VERSION = qv('v1.0.0');
+use version 0.77; our $VERSION = qv('v1.0.1');
 
 sub get_timestamp {
-    return DateTime::HiRes->now;
+    return DateTime::HiRes->now();
 }
 
 1;

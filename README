@@ -1,4 +1,4 @@
-DBIx-Class-TimeStamp-HiRes version 1.0.0
+DBIx-Class-TimeStamp-HiRes version 1.0.1
 
 DBIx-Class Component extending DBIx::Class::TimeStamp to inflate/deflate HiRes timestamps.
 

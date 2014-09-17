@@ -4,7 +4,7 @@
       "John Judd <funkyshu@dark-linux.com>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.4005, CPAN::Meta::Converter version 2.130880",
+   "generated_by" : "Module::Build version 0.421",
    "license" : [
       "perl_5"
    ],
@@ -23,7 +23,7 @@
       },
       "configure" : {
          "requires" : {
-            "Module::Build" : "0.40"
+            "Module::Build" : "0.42"
          }
       },
       "runtime" : {
@@ -37,7 +37,7 @@
    "provides" : {
       "DBIx::Class::TimeStamp::HiRes" : {
          "file" : "lib/DBIx/Class/TimeStamp/HiRes.pm",
-         "version" : "v1.0.0"
+         "version" : "v1.0.1"
       }
    },
    "release_status" : "stable",
@@ -46,5 +46,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "v1.0.0"
+   "version" : "v1.0.1"
 }
